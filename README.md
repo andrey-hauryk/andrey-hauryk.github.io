@@ -13,3 +13,11 @@
     }
   </style>
 </svg>
+
+
+
+Что попробовать:
+вот тут хороший гайд: 
+1. https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17
+
+2. https://habr.com/ru/articles/649363/
